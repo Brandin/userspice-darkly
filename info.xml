@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+  <name>Darkly</name>
+  <author>Brandin Arsenault</author>
+  <website>https://userSpice.com</website>
+  <version>1.0.0</version>
+  <release>July 9, 2020</release>
+  <tested>5.0.x</tested>
+  <dbnav>1</dbnav>
+  <dropnav>1</dropnav>
+  <filenav>1</filenav>
+  <navstyle>Default</navstyle>
+  <library>Boostrap 4</library>
+<navopts>Default</navopts>
+</template>
